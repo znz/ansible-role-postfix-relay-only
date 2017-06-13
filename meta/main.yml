@@ -1,0 +1,18 @@
+galaxy_info:
+  author: Kazuhiro NISHIYAMA
+  description: Setup postfix with relayhost
+  license: MIT
+  min_ansible_version: 1.2
+
+  platforms:
+  - name: Ubuntu
+  #  versions:
+  #  - trusty
+  - name: Debian
+  #  versions:
+  #  - stretch
+
+  galaxy_tags:
+  - networking
+
+dependencies: []
